@@ -1,5 +1,5 @@
 
-![Logo](https://useworktivity.com/theme/assets/img/logo/worktivity-horizontal-logo-default.svg)
+![Logo]([https://useworktivity.com/theme/assets/img/logo/worktivity-horizontal-logo-default.svg](https://useworktivity.com/_nuxt/img/worktivity-horizontal-logo-default.475fedc.svg))
 
     
 # Worktivity
